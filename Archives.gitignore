@@ -25,3 +25,6 @@
 *.msi
 *.msm
 *.msp
+
+#Windows:
+New WinRAR ZIP.zip
