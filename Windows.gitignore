@@ -1,16 +1,16 @@
-# Windows image file caches
+# Windows:
 Thumbs.db
 ehthumbs.db
-
-# Folder config file
 Desktop.ini
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-*.zip
+# My configurations:
+db.ini
+deploy_key_rsa
